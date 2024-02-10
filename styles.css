@@ -1,0 +1,68 @@
+body {
+    background-color:rgb(142, 174, 175);
+}
+
+h1 {
+    text-align: center;
+    color:rgb(17, 66, 68);
+}
+
+a {
+    color: #114244;
+}
+
+a:visited {
+    color:#114244;
+}
+
+footer {
+     position: fixed;
+     right: 0;
+     bottom: 20px;
+     text-align: center; 
+     width: 99%;   
+    font-weight: bold; 
+   }
+
+.textt{
+    float: center;
+    padding-left: 475px;
+    padding-top: 45px;
+    padding-right: 45px;
+    font-size: 20px;
+}
+
+.textt2{
+    float: center;
+    padding-left: 435px;
+    padding-top: 25px;
+    padding-right: 45px;
+    font-size: 20px;
+}
+
+table{
+    background-color:rgb(101, 156, 158);
+    width: 450px;
+    margin: auto;
+}
+
+img{
+    padding-top: 40px;
+    padding-left: 25%;
+    width: 300px;
+}
+
+.tabl{
+    padding-top: 40px;
+}
+
+.besit{
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.compl{
+    margin-top: 5%;
+    margin-left: 10%;
+    float: left;
+}
